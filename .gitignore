@@ -1,0 +1,4 @@
+/.ipynb_checkpoints
+/Supplementary Data
+*.csv
+.gitignore
